@@ -22,7 +22,6 @@ public class Java_04B_Swap_Two_Numbers_Without_Creating_Temp_Variable {
 		values[0] = values[1] - values[0];
 	}
 
-	// Main driver method
 	public static void main(String[] args) {
 		// Random numbers of integer type
 		int[] values = { 9, 5 };

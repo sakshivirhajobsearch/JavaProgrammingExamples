@@ -28,7 +28,6 @@ public class Java_08B_Find_Largest_Among_3_Numbers_Approach_2 {
 			return z;
 	}
 
-	// Main driver function
 	public static void main(String[] args) {
 		
 		int a, b, c, largest;

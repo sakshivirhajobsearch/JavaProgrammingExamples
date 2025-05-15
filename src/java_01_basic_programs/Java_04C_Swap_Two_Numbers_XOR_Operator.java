@@ -19,7 +19,6 @@ public class Java_04C_Swap_Two_Numbers_XOR_Operator {
 		System.out.println("Value of m is " + m + " and Value of n is " + n);
 	}
 
-	// Main driver method
 	public static void main(String[] args) {
 		// Random two integer numbers
 		// to get swapped

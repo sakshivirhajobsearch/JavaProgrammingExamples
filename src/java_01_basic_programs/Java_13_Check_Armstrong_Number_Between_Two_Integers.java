@@ -38,7 +38,6 @@ public class Java_13_Check_Armstrong_Number_Between_Two_Integers {
 		}
 	}
 
-	// The Driver code
 	public static void main(String args[]) {
 
 		int n1 = 50;

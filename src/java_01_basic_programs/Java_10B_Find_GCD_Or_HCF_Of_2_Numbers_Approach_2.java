@@ -13,7 +13,6 @@ public class Java_10B_Find_GCD_Or_HCF_Of_2_Numbers_Approach_2 {
 		return GCD(y, x % y);
 	}
 
-	// The Driver code
 	public static void main(String[] args) {
 		
 		int x = 47, y = 91;

@@ -36,7 +36,6 @@ public class Java_11C_Display_All_Prime_Numbers_From_1_To_N_Sieve_Of_Eratosthene
 		}
 	}
 
-	// Driver Code
 	public static void main(String args[]) {
 
 		int N = 45;

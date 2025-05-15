@@ -19,7 +19,6 @@ public class Java_04A_Swap_Two_Numbers_Temporary_variable {
 		System.out.println("Value of m is " + m + " and Value of n is " + n);
 	}
 
-	// Main driver code
 	public static void main(String[] args) {
 		// Random integer values
 		int m = 9, n = 5;

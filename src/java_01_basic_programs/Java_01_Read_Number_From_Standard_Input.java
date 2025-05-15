@@ -5,7 +5,6 @@ package java_01_basic_programs;
 import java.io.*;
 import java.util.Scanner;
 
-//Driver Class
 public class Java_01_Read_Number_From_Standard_Input {
 	
 	// main function

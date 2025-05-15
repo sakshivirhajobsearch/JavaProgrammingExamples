@@ -4,7 +4,6 @@ package java_01_basic_programs;
 // the LCM of two numbers
 import java.io.*;
 
-// Driver Class
 public class Java_09A_Find_LCM_Of_2_Numbers_Approach_1 {
 
 	// main function

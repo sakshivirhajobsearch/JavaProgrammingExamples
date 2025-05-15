@@ -32,7 +32,6 @@ public class Java_17A_Find_Even_Sum_Of_Fibonacci_Series_Till_Number_N_Approach_1
 		return s;
 	}
 
-	// The Driver code
 	public static void main(String[] args) {
 		int N = 11;
 

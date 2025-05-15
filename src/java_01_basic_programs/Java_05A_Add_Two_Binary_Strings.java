@@ -26,7 +26,6 @@ public class Java_05A_Add_Two_Binary_Strings {
 		return result;
 	}
 
-	// Main driver method
 	public static void main(String args[]) {
 		String x = "011011", y = "1010111";
 

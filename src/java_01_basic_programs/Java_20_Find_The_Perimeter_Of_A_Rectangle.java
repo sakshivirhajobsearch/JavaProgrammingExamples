@@ -17,7 +17,6 @@ public class Java_20_Find_The_Perimeter_Of_A_Rectangle {
 				+ " = " + perimeter);
 	}
 
-	// Driver method
 	public static void main(String[] args) {
 
 		// Initialize a variable length that stores length of

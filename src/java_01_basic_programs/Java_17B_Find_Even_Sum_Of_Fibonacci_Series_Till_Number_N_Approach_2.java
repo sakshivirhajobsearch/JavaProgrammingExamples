@@ -41,7 +41,6 @@ public class Java_17B_Find_Even_Sum_Of_Fibonacci_Series_Till_Number_N_Approach_2
 		return (fib(2 * n + 1) - 1);
 	}
 
-	// Driver program to test above function
 	public static void main(String[] args) {
 		// Get n
 		int n = 11;

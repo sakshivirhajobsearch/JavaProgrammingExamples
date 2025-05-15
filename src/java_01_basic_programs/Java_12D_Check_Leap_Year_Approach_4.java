@@ -25,7 +25,6 @@ public class Java_12D_Check_Leap_Year_Approach_4 {
 			System.out.println(year + " : Leap-year");
 	}
 
-	// Driver Code
 	public static void main(String[] args) {
 
 		// Calling our function by

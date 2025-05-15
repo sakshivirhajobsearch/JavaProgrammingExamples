@@ -9,7 +9,6 @@ import java.util.*;
 //Main class
 public class Java_07C_Check_Even_Or_Odd_Integers_Bitwise_AND {
 
-	// Main driver method
 	public static void main(String[] args) {
 
 		// Declare and initializing integer variable

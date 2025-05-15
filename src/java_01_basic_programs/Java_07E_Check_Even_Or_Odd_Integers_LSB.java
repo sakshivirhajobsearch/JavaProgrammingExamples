@@ -30,7 +30,6 @@ public class Java_07E_Check_Even_Or_Odd_Integers_LSB {
 	}
 
 	// Method 2
-	// Main driver method
 	public static void main(String[] args) {
 
 		// Iterationg over using for loop

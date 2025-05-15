@@ -22,7 +22,6 @@ public class Java_10A_Find_GCD_Or_HCF_Of_2_Numbers_Approach_1 {
 		return GCD(x, y - x);
 	}
 
-	// The Driver method
 	public static void main(String[] args) {
 		
 		int x = 100, y = 88;

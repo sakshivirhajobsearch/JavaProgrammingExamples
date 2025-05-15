@@ -36,7 +36,6 @@ public class Java_11B_Display_All_Prime_Numbers_From_1_To_N_Approach_2 {
 		}
 	}
 
-	// The Driver code
 	public static void main(String[] args) {
 		int N = 45;
 

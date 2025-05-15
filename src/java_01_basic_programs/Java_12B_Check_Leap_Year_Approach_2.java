@@ -11,7 +11,6 @@ import java.util.Scanner;
 //Class to check leap-year or not
 public class Java_12B_Check_Leap_Year_Approach_2 {
 
-	// Driver code
 	public static void main(String[] args) {
 		
 		// Considering any random year

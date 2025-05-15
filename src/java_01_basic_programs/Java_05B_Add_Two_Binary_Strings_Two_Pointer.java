@@ -37,7 +37,6 @@ public class Java_05B_Add_Two_Binary_Strings_Two_Pointer {
 		return result.reverse().toString();
 	}
 
-	// Main driver method
 	public static void main(String[] args) {
 		String x = "011011";
 		String y = "1010111";

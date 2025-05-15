@@ -3,7 +3,6 @@ package java_01_basic_programs;
 //Java program to find factorial
 //of given number
 
-//Driver Class
 public class Java_16C_Find_Factorial_Of_A_Number_Approach_3 {
 
 	// function to find factorial

@@ -13,7 +13,6 @@ public class Java_08A_Find_Largest_Among_3_Numbers_Approach_1 {
 		return z > (x > y ? x : y) ? z : ((x > y) ? x : y);
 	}
 
-	// Main driver function
 	public static void main(String[] args) {
 
 		// Declaring variables for 3 numbers

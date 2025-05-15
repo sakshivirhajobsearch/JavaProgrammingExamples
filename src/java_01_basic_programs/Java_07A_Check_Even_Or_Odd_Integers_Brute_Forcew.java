@@ -10,7 +10,6 @@ import java.util.Scanner;
 //Main class
 public class Java_07A_Check_Even_Or_Odd_Integers_Brute_Forcew {
 
-	// Main Driver Method
 	public static void main(String[] args) {
 		
 		// Declaring and initializing integer variable

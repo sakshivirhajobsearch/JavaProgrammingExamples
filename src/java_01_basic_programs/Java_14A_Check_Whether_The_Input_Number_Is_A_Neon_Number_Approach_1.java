@@ -43,7 +43,6 @@ public class Java_14A_Check_Whether_The_Input_Number_Is_A_Neon_Number_Approach_1
 			return false;
 	}
 
-	// Main driver method
 	public static void main(String[] args) {
 
 		// Custom input

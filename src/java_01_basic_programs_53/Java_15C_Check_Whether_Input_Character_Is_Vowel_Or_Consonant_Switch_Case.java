@@ -1,6 +1,6 @@
 package java_01_basic_programs_53;
 
-/// Java program to check whether input
+// Java program to check whether input
 //character is a vowel or consonant
 //using switch statement
 import java.io.*;

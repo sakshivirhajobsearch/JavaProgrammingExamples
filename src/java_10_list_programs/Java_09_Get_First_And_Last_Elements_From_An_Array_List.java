@@ -1,5 +1,0 @@
-package java_10_list_programs;
-
-public class Java_09_Get_First_And_Last_Elements_From_An_Array_List {
-
-}

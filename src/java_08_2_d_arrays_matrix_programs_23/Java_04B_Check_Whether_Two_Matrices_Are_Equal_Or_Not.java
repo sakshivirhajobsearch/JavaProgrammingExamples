@@ -1,0 +1,5 @@
+package java_08_2_d_arrays_matrix_programs_23;
+
+public class Java_04B_Check_Whether_Two_Matrices_Are_Equal_Or_Not {
+
+}

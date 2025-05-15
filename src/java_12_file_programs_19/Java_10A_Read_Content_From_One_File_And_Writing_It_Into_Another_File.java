@@ -1,0 +1,5 @@
+package java_12_file_programs_19;
+
+public class Java_10A_Read_Content_From_One_File_And_Writing_It_Into_Another_File {
+
+}

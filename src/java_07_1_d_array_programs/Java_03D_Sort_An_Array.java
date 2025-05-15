@@ -1,5 +1,5 @@
 package java_07_1_d_array_programs;
 
-public class Java_03_Sort_An_Array {
+public class Java_03D_Sort_An_Array {
 
 }

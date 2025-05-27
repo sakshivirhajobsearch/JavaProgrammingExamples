@@ -1,9 +1,5 @@
 package java_01_basic_programs_53;
 
-//Java Program to find even sum of
-//fibonacci Series Till number N
-import java.io.*;
-
 public class Java_17A_Find_Even_Sum_Of_Fibonacci_Series_Till_Number_N_Approach_1 {
 
 	// Computing the value of first fibonacci series

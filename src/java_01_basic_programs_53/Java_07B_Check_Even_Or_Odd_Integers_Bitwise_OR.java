@@ -1,16 +1,10 @@
 package java_01_basic_programs_53;
 
-//Java Program to Check if Given Integer is Odd or Even
-//Using Bitwise OR
-
-//Importing required classes
-import java.util.*;
-
 //Main class
 public class Java_07B_Check_Even_Or_Odd_Integers_Bitwise_OR {
 
 	public static void main(String[] args) {
-		
+
 		// Declaring and initializing integer variable
 		// to be checked
 		int n = 100;

@@ -1,10 +1,5 @@
 package java_01_basic_programs_53;
 
-//JAVA program to find Armstrong 
-//numbers between two integers 
-import java.io.*;
-import java.math.*;
-
 public class Java_13_Check_Armstrong_Number_Between_Two_Integers {
 
 	// Function to print Armstrong

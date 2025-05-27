@@ -1,17 +1,11 @@
 package java_01_basic_programs_53;
 
-//Java Program to swap the two values
-//without using third variable
-
-//Importing generic Java libraries
-import java.util.*;
-
 public class Java_04B_Swap_Two_Numbers_Without_Creating_Temp_Variable {
 
 	// Function to swap values of two numbers
 	// without creating temp variable
 	static void swapValuesWithoutUsingThirdVariable(int[] values) {
-		
+
 		// Steps as listed in algorithm
 		// Difference of 2nd from 1st
 		// is stored in first variable

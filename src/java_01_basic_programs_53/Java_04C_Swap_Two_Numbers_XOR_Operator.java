@@ -1,11 +1,5 @@
 package java_01_basic_programs_53;
 
-//Java Program to swap the two values
-//using XOR Operator
-
-//Importing generic Java libraries
-import java.io.*;
-
 public class Java_04C_Swap_Two_Numbers_XOR_Operator {
 
 	// Function to swap values of two numbers

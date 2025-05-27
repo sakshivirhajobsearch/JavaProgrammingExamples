@@ -1,10 +1,5 @@
 package java_01_basic_programs_53;
 
-// Java Program to Find the Biggest of 3 Numbers
-
-// Importing generic Classes/Files
-import java.io.*;
-
 public class Java_08B_Find_Largest_Among_3_Numbers_Approach_2 {
 
 	// Function to find the biggest of three numbers
@@ -29,7 +24,7 @@ public class Java_08B_Find_Largest_Among_3_Numbers_Approach_2 {
 	}
 
 	public static void main(String[] args) {
-		
+
 		int a, b, c, largest;
 
 		// Considering random integers three numbers

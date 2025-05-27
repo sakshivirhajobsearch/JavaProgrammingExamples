@@ -11,7 +11,7 @@ public class Java_06A_Add_Two_Complex_Numbers_Approach_1 {
 	// Constructor which will be used while creating complex
 	// number
 	public Java_06A_Add_Two_Complex_Numbers_Approach_1(int r, int i) {
-		
+
 		this.real = r;
 		this.image = i;
 	}

@@ -1,7 +1,8 @@
 package java_01_basic_programs_53;
 
 //Java program to read input using DataInputStream class
-import java.io.*;
+import java.io.DataInputStream;
+import java.io.IOException;
 
 public class Java_02E_Get_Input_From_The_User_DataInputStream_Class {
 

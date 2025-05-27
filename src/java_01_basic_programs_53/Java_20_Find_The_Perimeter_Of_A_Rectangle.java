@@ -1,9 +1,5 @@
 package java_01_basic_programs_53;
 
-//Java program to find the perimeter of a Rectangle
-
-import java.io.*;
-
 public class Java_20_Find_The_Perimeter_Of_A_Rectangle {
 
 	// Method to calculate the perimeter of the rectangle

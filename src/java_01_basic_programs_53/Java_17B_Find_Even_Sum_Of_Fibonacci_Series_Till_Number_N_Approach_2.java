@@ -13,7 +13,7 @@ public class Java_17B_Find_Even_Sum_Of_Fibonacci_Series_Till_Number_N_Approach_2
 	// Returns n'th Fibonacci number
 	// using table f[]
 	static int fib(int n) {
-		
+
 		// Base cases
 		if (n == 0) {
 			return 0;

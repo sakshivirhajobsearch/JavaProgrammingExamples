@@ -5,7 +5,7 @@ public class Java_10A_Find_GCD_Or_HCF_Of_2_Numbers_Approach_1 {
 
 	// Gcd of x and y using recursive function
 	static int GCD(int x, int y) {
-		
+
 		// Everything is divisible by 0
 		if (x == 0)
 			return y;
@@ -23,7 +23,7 @@ public class Java_10A_Find_GCD_Or_HCF_Of_2_Numbers_Approach_1 {
 	}
 
 	public static void main(String[] args) {
-		
+
 		int x = 100, y = 88;
 		System.out.println("GCD of " + x + " and " + y + " is " + GCD(x, y));
 	}

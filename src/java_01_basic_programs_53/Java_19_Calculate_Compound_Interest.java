@@ -1,13 +1,9 @@
 package java_01_basic_programs_53;
 
-//Java program to find compound interest for 
-//given values. 
-import java.io.*;
-
 public class Java_19_Calculate_Compound_Interest {
 
 	public static void main(String args[]) {
-		
+
 		double principal = 10000, rate = 10.25, time = 5;
 
 		/* Calculate compound interest */

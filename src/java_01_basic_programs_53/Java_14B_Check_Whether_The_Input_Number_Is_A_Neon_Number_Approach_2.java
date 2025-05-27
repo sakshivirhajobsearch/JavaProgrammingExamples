@@ -1,7 +1,5 @@
 package java_01_basic_programs_53;
 
-import java.util.Scanner;
-
 public class Java_14B_Check_Whether_The_Input_Number_Is_A_Neon_Number_Approach_2 {
 
 	public static void main(String[] args) {

@@ -1,7 +1,5 @@
 package java_01_basic_programs_53;
 
-import java.io.*;
-
 //Class
 public class Java_05B_Add_Two_Binary_Strings_Two_Pointer {
 

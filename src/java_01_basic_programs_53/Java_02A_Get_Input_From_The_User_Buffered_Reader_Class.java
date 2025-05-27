@@ -8,7 +8,7 @@ import java.io.InputStreamReader;
 public class Java_02A_Get_Input_From_The_User_Buffered_Reader_Class {
 
 	public static void main(String[] args) throws IOException {
-		
+
 		// Enter data using BufferReader
 		BufferedReader r = new BufferedReader(new InputStreamReader(System.in));
 

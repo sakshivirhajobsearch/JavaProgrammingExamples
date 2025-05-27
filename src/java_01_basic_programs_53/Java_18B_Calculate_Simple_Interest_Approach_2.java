@@ -1,10 +1,5 @@
 package java_01_basic_programs_53;
 
-//Java program to compute
-//simple interest for given principal
-//amount, time and rate of interest.
-import java.io.*;
-
 public class Java_18B_Calculate_Simple_Interest_Approach_2 {
 
 	public static void main(String args[]) {

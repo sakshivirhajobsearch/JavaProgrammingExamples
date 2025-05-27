@@ -1,11 +1,6 @@
 package java_01_basic_programs_53;
 
-//Java program to find a leap year
-
-//Importing Classes/Files
-import java.io.*;
-import java.time.*;
-import java.util.*;
+import java.time.Year;
 
 //Class for leap-year dealing
 public class Java_12D_Check_Leap_Year_Approach_4 {

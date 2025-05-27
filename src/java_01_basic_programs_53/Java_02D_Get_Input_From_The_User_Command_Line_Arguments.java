@@ -4,7 +4,7 @@ package java_01_basic_programs_53;
 public class Java_02D_Get_Input_From_The_User_Command_Line_Arguments {
 
 	public static void main(String[] args) {
-		
+
 		// check if length of args array is
 		// greater than 0
 		if (args.length > 0) {

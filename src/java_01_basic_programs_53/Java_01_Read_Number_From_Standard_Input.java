@@ -1,15 +1,12 @@
 package java_01_basic_programs_53;
 
-//Java program to take an integer
-//as input and print it
-import java.io.*;
 import java.util.Scanner;
 
 public class Java_01_Read_Number_From_Standard_Input {
-	
+
 	// main function
 	public static void main(String[] args) {
-		
+
 		// Declare the variables
 		int num;
 

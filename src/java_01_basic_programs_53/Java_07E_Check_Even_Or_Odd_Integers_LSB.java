@@ -1,11 +1,5 @@
 package java_01_basic_programs_53;
 
-//Java Program to Check if Given Integer is Odd or Even
-//by checking the LSB of the Number
-
-//Importing required classes
-import java.util.*;
-
 //Main class
 //TestEvenOddByCheckingLSB
 public class Java_07E_Check_Even_Or_Odd_Integers_LSB {

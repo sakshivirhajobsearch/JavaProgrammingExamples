@@ -19,7 +19,7 @@ public class Java_09B_Find_LCM_Of_2_Numbers_Approach_2 {
 
 	// main method
 	public static void main(String[] args) {
-		
+
 		int u = 25, v = 15;
 		System.out.println("LCM of " + u + " and " + v + " is " + LCM(u, v));
 	}

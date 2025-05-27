@@ -1,14 +1,10 @@
 package java_01_basic_programs_53;
 
-// Java Program to find 
-// the LCM of two numbers
-import java.io.*;
-
 public class Java_09A_Find_LCM_Of_2_Numbers_Approach_1 {
 
 	// main function
 	public static void main(String[] args) {
-		
+
 		// Numbers
 		int a = 15, b = 25;
 

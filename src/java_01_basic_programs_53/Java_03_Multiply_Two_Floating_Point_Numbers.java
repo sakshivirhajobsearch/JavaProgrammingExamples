@@ -1,10 +1,5 @@
 package java_01_basic_programs_53;
 
-//Java Program to print Multiplication of two floating
-//point Number.
-
-import java.io.*;
-
 public class Java_03_Multiply_Two_Floating_Point_Numbers {
 
 	public static void main(String[] args) {

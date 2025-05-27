@@ -1,11 +1,5 @@
 package java_01_basic_programs_53;
 
-//Java Program to Check if Given Integer is Odd or Even
-//Using Bitwise XOR
-
-//Importing required classes
-import java.util.*;
-
 //Main class
 public class Java_07D_Check_Even_Or_Odd_Integers_Bitwise_XOR {
 

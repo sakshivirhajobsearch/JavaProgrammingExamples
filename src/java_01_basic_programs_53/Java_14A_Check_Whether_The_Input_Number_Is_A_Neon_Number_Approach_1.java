@@ -1,10 +1,5 @@
 package java_01_basic_programs_53;
 
-//Java Program to Check If a Number is Neon number or not
-
-//Importing java input/output library
-import java.io.*;
-
 public class Java_14A_Check_Whether_The_Input_Number_Is_A_Neon_Number_Approach_1 {
 
 	// Method to check whether number is neon or not

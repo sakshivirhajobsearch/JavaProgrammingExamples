@@ -1,10 +1,5 @@
 package java_01_basic_programs_53;
 
-//Java program to check Leap-year
-//by taking input from user
-
-//Importing Classes/Files
-import java.io.*;
 //Importing Scanner Class
 import java.util.Scanner;
 
@@ -12,7 +7,7 @@ import java.util.Scanner;
 public class Java_12B_Check_Leap_Year_Approach_2 {
 
 	public static void main(String[] args) {
-		
+
 		// Considering any random year
 		int year;
 

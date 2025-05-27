@@ -1,0 +1,5 @@
+package java_14_exceptions_and_errors_programs_38;
+
+public class Java_09A_Thread_Interface_And_Memory_Consistency_Errors {
+
+}

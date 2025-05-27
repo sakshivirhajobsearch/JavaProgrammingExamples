@@ -1,0 +1,5 @@
+package java_15H_collections_programs_other_important_concepts_7;
+
+public class Java_05A_Array_To_Arraylist_Conversion {
+
+}

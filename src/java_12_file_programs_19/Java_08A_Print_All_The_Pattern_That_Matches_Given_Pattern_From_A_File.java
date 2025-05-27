@@ -1,0 +1,5 @@
+package java_12_file_programs_19;
+
+public class Java_08A_Print_All_The_Pattern_That_Matches_Given_Pattern_From_A_File {
+
+}

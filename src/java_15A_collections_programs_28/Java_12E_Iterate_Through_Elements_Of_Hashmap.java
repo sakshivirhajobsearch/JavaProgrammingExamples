@@ -1,11 +1,11 @@
 package java_15A_collections_programs_28;
 
 import java.util.HashMap;
-//Java program to demonstrate iteration over 
-//Map using keySet() and values() methods
+//Java program to demonstrate iteration
+//over keys and searching for values
 import java.util.Map;
 
-public class Java_12B_Iterate_Through_Elements_Of_Hashmap {
+public class Java_12E_Iterate_Through_Elements_Of_Hashmap {
 	
 	public static void main(String[] arg) {
 		
@@ -17,12 +17,11 @@ public class Java_12B_Iterate_Through_Elements_Of_Hashmap {
 		m.put("Code", "code.geeksforgeeks.org");
 		m.put("Quiz", "www.geeksforgeeks.org");
 
-		// using keySet() for iteration over keys
-		for (String name : m.keySet())
-			System.out.println("key: " + name);
-
-		// using values() for iteration over values
-		for (String url : m.values())
-			System.out.println("value: " + url);
+		// looping over keys
+		for (String i : m.keySet()) {
+			// search for value
+			String url = m.get(i);
+			System.out.println("Key = " + i + ", Value = " + url);
+		}
 	}
 }

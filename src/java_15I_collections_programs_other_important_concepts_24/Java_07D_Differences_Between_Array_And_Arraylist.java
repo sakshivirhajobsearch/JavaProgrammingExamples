@@ -1,0 +1,5 @@
+package java_15I_collections_programs_other_important_concepts_24;
+
+public class Java_07D_Differences_Between_Array_And_Arraylist {
+
+}

@@ -1,5 +1,0 @@
-package java_15I_collections_programs_other_important_concepts_7;
-
-public class Java_02A_Randomly_Select_Items_From_A_List {
-
-}

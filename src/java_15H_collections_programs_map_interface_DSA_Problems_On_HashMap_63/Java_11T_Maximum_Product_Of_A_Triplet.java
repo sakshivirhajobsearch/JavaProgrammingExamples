@@ -1,5 +1,5 @@
 package java_15H_collections_programs_map_interface_DSA_Problems_On_HashMap_63;
 
-public class Java_11M_Java_11F1_3_Sum_Triplet_Sum_Closest_To_Target {
+public class Java_11T_Maximum_Product_Of_A_Triplet {
 
 }

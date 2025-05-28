@@ -1,5 +1,5 @@
 package java_15H_collections_programs_map_interface_DSA_Problems_On_HashMap_63;
 
-public class Java_11U3_3_Sum_All_Distinct_Triplets_With_Given_Sum {
+public class Java_11S_Maximum_Sum_Triplet {
 
 }

@@ -1,5 +1,0 @@
-package java_15H_collections_programs_map_interface_DSA_Problems_On_HashMap_50;
-
-public class Java_13B_Longest_Subarray_Having_Majority_Elements_Greater_Than_K {
-
-}

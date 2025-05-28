@@ -1,5 +1,0 @@
-package java_15H_collections_programs_map_interface_DSA_Problems_On_HashMap_50;
-
-public class Java_11M_Java_11F1_3_Sum_Triplet_Sum_Closest_To_Target {
-
-}

@@ -1,5 +1,0 @@
-package java_15H_collections_programs_map_interface_DSA_Problems_On_HashMap_50;
-
-public class Java_11W2_Count_Triplets_With_Sum_Smaller_Than_A_Given_Value {
-
-}

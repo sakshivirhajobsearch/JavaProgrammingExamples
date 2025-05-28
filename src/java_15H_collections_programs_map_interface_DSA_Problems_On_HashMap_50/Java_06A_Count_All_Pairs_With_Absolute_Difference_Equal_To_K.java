@@ -1,4 +1,4 @@
-package java_15H_collections_programs_map_interface_DSA_Problems_On_HashMap_13;
+package java_15H_collections_programs_map_interface_DSA_Problems_On_HashMap_50;
 
 public class Java_06A_Count_All_Pairs_With_Absolute_Difference_Equal_To_K {
 

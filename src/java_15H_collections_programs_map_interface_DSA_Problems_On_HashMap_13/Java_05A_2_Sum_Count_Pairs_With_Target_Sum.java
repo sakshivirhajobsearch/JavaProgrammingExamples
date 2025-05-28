@@ -1,5 +1,0 @@
-package java_15H_collections_programs_map_interface_DSA_Problems_On_HashMap_13;
-
-public class Java_05A_2_Sum_Count_Pairs_With_Target_Sum {
-
-}

@@ -1,0 +1,5 @@
+package java_15H_collections_programs_map_interface_DSA_Problems_On_HashMap_13;
+
+public class Java_07A_Check_If_Array_Pair_Sums_Divisible_By_K {
+
+}

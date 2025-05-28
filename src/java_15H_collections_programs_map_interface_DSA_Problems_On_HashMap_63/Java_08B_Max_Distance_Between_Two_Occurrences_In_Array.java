@@ -1,5 +1,0 @@
-package java_15H_collections_programs_map_interface_DSA_Problems_On_HashMap_63;
-
-public class Java_08B_Max_Distance_Between_Two_Occurrences_In_Array {
-
-}

@@ -1,0 +1,5 @@
+package java_15H_collections_programs_map_interface_DSA_Problems_On_HashMap_56;
+
+public class Java_04A_Check_If_Two_Arrays_Are_Equal_Or_Not {
+
+}

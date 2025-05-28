@@ -1,0 +1,5 @@
+package java_15H_collections_programs_map_interface_DSA_Problems_On_HashMap_56;
+
+public class Java_10A_Remove_Minimum_Elements_Such_That_No_Common_Elements_Exist_In_Two_Arrays {
+
+}

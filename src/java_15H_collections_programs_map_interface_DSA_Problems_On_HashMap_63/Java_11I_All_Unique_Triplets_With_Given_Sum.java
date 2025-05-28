@@ -1,5 +1,0 @@
-package java_15H_collections_programs_map_interface_DSA_Problems_On_HashMap_63;
-
-public class Java_11I_All_Unique_Triplets_With_Given_Sum {
-
-}

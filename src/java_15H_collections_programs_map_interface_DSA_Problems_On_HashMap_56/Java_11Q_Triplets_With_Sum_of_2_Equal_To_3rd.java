@@ -1,5 +1,0 @@
-package java_15H_collections_programs_map_interface_DSA_Problems_On_HashMap_56;
-
-public class Java_11Q_Triplets_With_Sum_of_2_Equal_To_3rd {
-
-}

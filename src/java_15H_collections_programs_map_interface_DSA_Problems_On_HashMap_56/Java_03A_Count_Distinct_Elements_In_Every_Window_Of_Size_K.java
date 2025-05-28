@@ -1,5 +1,0 @@
-package java_15H_collections_programs_map_interface_DSA_Problems_On_HashMap_56;
-
-public class Java_03A_Count_Distinct_Elements_In_Every_Window_Of_Size_K {
-
-}

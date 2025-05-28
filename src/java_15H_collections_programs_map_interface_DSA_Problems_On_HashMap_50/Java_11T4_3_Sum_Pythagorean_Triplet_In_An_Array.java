@@ -1,5 +1,5 @@
 package java_15H_collections_programs_map_interface_DSA_Problems_On_HashMap_50;
 
-public class Java_11E2_3_Sum_Find_All_Triplets_With_Given_Sum {
+public class Java_11T4_3_Sum_Pythagorean_Triplet_In_An_Array {
 
 }

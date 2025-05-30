@@ -1,5 +1,0 @@
-package java_15H_collections_programs_map_interface_DSA_problems_on_hashmap_56;
-
-public class Java_12A_Longest_Subarray_With_Sum_Divisible_By_K {
-
-}

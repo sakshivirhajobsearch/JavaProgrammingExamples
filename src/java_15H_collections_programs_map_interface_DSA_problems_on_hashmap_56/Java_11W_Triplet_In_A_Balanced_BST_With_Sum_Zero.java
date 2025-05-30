@@ -1,5 +1,0 @@
-package java_15H_collections_programs_map_interface_DSA_problems_on_hashmap_56;
-
-public class Java_11W_Triplet_In_A_Balanced_BST_With_Sum_Zero {
-
-}

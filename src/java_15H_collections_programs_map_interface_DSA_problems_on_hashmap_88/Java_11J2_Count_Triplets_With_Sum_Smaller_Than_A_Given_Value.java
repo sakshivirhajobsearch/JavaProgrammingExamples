@@ -6,7 +6,7 @@ package java_15H_collections_programs_map_interface_DSA_problems_on_hashmap_88;
 import java.util.Arrays;
 
 public class Java_11J2_Count_Triplets_With_Sum_Smaller_Than_A_Given_Value {
-	
+
 	static int arr[] = new int[] { 5, 1, 3, 4, 7 };
 
 	static int countTriplets(int n, int sum) {

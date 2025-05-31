@@ -32,7 +32,7 @@ public class Java_11Y1_Maximum_Sum_Triplet {
 
 	// Driver code
 	public static void main(String args[]) {
-		
+
 		int arr[] = { 2, 5, 3, 1, 4, 9 };
 		int n = arr.length;
 		System.out.println(maxTripletSum(arr, n));

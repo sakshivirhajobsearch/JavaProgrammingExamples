@@ -8,6 +8,7 @@ import java.util.HashSet;
 public class Java_11G3_3_Sum_Pythagorean_Triplet_In_An_Array {
 
 	static boolean pythagoreanTriplet(int[] arr) {
+
 		int n = arr.length;
 		HashSet<Integer> st = new HashSet<>();
 		for (int i = 0; i < n; i++)

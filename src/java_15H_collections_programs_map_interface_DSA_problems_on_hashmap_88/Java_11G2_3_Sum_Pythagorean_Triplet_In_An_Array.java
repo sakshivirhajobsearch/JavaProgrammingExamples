@@ -8,6 +8,7 @@ import java.util.Arrays;
 public class Java_11G2_3_Sum_Pythagorean_Triplet_In_An_Array {
 
 	static boolean pythagoreanTriplet(int[] arr) {
+		
 		int n = arr.length;
 
 		// Taking Square of each element

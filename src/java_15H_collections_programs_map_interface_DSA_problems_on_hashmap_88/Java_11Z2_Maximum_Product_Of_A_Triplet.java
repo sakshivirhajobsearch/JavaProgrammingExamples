@@ -22,7 +22,7 @@ public class Java_11Z2_Maximum_Product_Of_A_Triplet {
 	}
 
 	public static void main(String[] args) {
-		
+
 		int[] arr = { -10, -3, 5, 6, -20 };
 		int max = maxProduct(arr);
 		System.out.println(max);

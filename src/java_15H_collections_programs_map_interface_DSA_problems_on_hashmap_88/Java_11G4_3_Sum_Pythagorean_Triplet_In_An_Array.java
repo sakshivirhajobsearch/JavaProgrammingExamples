@@ -3,6 +3,7 @@ package java_15H_collections_programs_map_interface_DSA_problems_on_hashmap_88;
 public class Java_11G4_3_Sum_Pythagorean_Triplet_In_An_Array {
 
 	static boolean pythagoreanTriplet(int[] arr) {
+
 		int n = arr.length;
 		int maxEle = 0;
 		for (int ele : arr)

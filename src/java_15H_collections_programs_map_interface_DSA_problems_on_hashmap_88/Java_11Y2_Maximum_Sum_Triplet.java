@@ -49,7 +49,7 @@ public class Java_11Y2_Maximum_Sum_Triplet {
 
 	// Driver Code
 	public static void main(String[] args) {
-		
+
 		int arr[] = { 2, 5, 3, 1, 4, 9 };
 		int n = arr.length;
 

@@ -9,6 +9,7 @@ import java.util.List;
 public class Java_11I1_Pythagorean_Triplet_With_Given_Sum {
 
 	static List<List<Integer>> pythagoreanTriplet(int target) {
+
 		List<List<Integer>> res = new ArrayList<>();
 
 		// Generating all possible triplets

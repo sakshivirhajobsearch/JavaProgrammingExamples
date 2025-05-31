@@ -4,7 +4,7 @@ package java_15B_collections_programs_list_interface_42;
 //of elements from vector
 import java.util.Vector;
 
-class Java_04E_Vector_Class {
+public class Java_04E_Vector_Class {
 
 	public static void main(String[] arg) {
 		

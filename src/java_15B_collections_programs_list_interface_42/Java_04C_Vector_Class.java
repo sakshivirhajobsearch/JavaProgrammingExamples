@@ -4,7 +4,7 @@ import java.util.Vector;
 
 //Main class
 //AddElementsToVector
-class Java_04C_Vector_Class {
+public class Java_04C_Vector_Class {
 
 	// Main driver method
 	public static void main(String[] arg) {

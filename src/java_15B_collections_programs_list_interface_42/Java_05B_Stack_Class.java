@@ -3,7 +3,7 @@ package java_15B_collections_programs_list_interface_42;
 //Java code for stack implementation
 import java.util.Stack;
 
-class Java_05B_Stack_Class {
+public class Java_05B_Stack_Class {
 
 	// Pushing element on the top of the stack
 	static void stack_push(Stack<Integer> stack) {

@@ -5,7 +5,7 @@ package java_15B_collections_programs_list_interface_42;
 import java.util.ArrayDeque;
 import java.util.Deque;
 
-class Java_05F_Stack_Class {
+public class Java_05F_Stack_Class {
 	
 	public static void main(String[] args) {
 		

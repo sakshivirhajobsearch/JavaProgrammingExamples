@@ -2,7 +2,6 @@ package java_15B_collections_programs_list_interface_42;
 
 import java.util.LinkedList;
 
-
 public class Java_06I_Linkedlist_Class {
 	
 	public static void main(String args[]) {

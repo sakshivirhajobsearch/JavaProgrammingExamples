@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Stack;
 import java.util.stream.Collectors;
 
-class Java_05G_Stack_Class {
+public class Java_05G_Stack_Class {
 	
 	public static void main(String[] args) {
 

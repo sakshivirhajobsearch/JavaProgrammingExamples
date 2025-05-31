@@ -4,7 +4,7 @@ package java_15B_collections_programs_list_interface_42;
 //Addition, Deletion and Updation of Element
 import java.util.ArrayList;
 
-class Java_03B_Array_List {
+public class Java_03B_Array_List {
 
 	public static void main(String args[]) {
 

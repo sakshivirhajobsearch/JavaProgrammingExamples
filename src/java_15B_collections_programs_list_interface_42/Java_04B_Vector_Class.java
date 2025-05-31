@@ -3,7 +3,7 @@ package java_15B_collections_programs_list_interface_42;
 import java.util.Vector;
 
 //Main class
-class Java_04B_Vector_Class {
+public class Java_04B_Vector_Class {
 
 	// Main driver method
 	public static void main(String[] args) {

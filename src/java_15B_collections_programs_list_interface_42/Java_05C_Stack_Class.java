@@ -2,7 +2,7 @@ package java_15B_collections_programs_list_interface_42;
 
 import java.util.Stack;
 
-class Java_05C_Stack_Class {
+public class Java_05C_Stack_Class {
 
 	// Main Method
 	public static void main(String[] args) {

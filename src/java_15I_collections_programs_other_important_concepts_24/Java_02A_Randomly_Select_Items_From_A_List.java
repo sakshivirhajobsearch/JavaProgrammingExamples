@@ -1,7 +1,6 @@
 package java_15I_collections_programs_other_important_concepts_24;
 
-//Randomly select an element from a list
-
+// Randomly select an element from a list
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
@@ -18,7 +17,7 @@ public class Java_02A_Randomly_Select_Items_From_A_List {
 		l.add(40);
 		l.add(50);
 
-		Java_01A_How_To_Convert_HashMap_To_Arraylist o = new Java_01A_How_To_Convert_HashMap_To_Arraylist();
+		Java_02A_Randomly_Select_Items_From_A_List o = new Java_02A_Randomly_Select_Items_From_A_List();
 
 		// take a random element from list and print them
 		System.out.println("Random Element: " + o.getRandomElement(l));

@@ -1,7 +1,7 @@
 package java_15E_collections_programs_set_interface_37;
 
-//Java Program to demonstrates the working of
-//CopyOnWriteArraySet Class
+// Java Program to demonstrates the working of
+// CopyOnWriteArraySet Class
 import java.util.Iterator;
 import java.util.concurrent.CopyOnWriteArraySet;
 
@@ -25,7 +25,7 @@ public class Java_02B_CopyOnWriteArraySet_Class extends Thread {
 
 		// We create a child thread that
 		// is going to modify CopyOnWriteArraySet s
-		Java_001A_Set_Interface t = new Java_001A_Set_Interface();
+		Java_02B_CopyOnWriteArraySet_Class t = new Java_02B_CopyOnWriteArraySet_Class();
 
 		// Running the child thread
 		// using start() method

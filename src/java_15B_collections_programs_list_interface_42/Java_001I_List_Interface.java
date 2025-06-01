@@ -4,9 +4,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Java_001I_List_Interface {
-	
+
 	public static void main(String[] args) {
-		
+
 		// Size of ArrayList
 		int n = 5;
 

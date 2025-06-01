@@ -4,9 +4,9 @@ import java.util.List;
 import java.util.Vector;
 
 public class Java_001J_List_Interface {
-	
+
 	public static void main(String[] args) {
-		
+
 		// Size of the vector
 		int n = 5;
 

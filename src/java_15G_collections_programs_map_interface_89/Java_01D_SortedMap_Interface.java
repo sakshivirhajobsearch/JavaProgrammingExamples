@@ -6,6 +6,7 @@ import java.util.TreeMap;
 public class Java_01D_SortedMap_Interface {
 
 	public static void main(String args[]) {
+		
 		// Initialization of a SortedMap
 		// using Generics
 		SortedMap<Integer, String> tm = new TreeMap<Integer, String>();

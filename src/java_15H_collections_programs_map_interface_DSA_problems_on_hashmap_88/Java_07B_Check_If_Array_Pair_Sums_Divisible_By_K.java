@@ -2,6 +2,7 @@ package java_15H_collections_programs_map_interface_DSA_problems_on_hashmap_88;
 
 //JAVA program to check if arr[0..n-1] can be divided
 //in pairs such that every pair is divisible by k.
+
 import java.util.HashMap;
 
 public class Java_07B_Check_If_Array_Pair_Sums_Divisible_By_K {
@@ -9,7 +10,7 @@ public class Java_07B_Check_If_Array_Pair_Sums_Divisible_By_K {
 	// Returns true if arr[0..n-1] can be divided into pairs
 	// with sum divisible by k.
 	static boolean canPairs(int ar[], int k) {
-		
+
 		// An odd length array cannot be divided into pairs
 		if (ar.length % 2 == 1)
 			return false;
@@ -67,6 +68,7 @@ public class Java_07B_Check_If_Array_Pair_Sums_Divisible_By_K {
 
 	// Driver code
 	public static void main(String[] args) {
+		
 		int arr[] = { 92, 75, 65, 48, 45, 35 };
 		int k = 10;
 

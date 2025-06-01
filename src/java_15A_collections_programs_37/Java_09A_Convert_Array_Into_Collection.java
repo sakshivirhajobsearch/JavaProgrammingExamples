@@ -7,10 +7,11 @@ import java.util.Arrays;
 import java.util.List;
 
 //class for writing logic of the problem
+
 public class Java_09A_Convert_Array_Into_Collection {
-	
+
 	public static void main(String args[]) {
-		
+
 		// array input
 		String playersArray[] = { "Virat", "Sachin", "Rohit", "Bumrah" };
 

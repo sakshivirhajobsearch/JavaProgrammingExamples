@@ -8,7 +8,7 @@ import java.util.Vector;
 public class Java_04D_Vector_Class {
 
 	public static void main(String args[]) {
-		
+
 		// Creating an empty Vector
 		Vector<Integer> v = new Vector<Integer>();
 

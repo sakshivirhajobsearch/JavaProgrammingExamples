@@ -7,7 +7,7 @@ package java_15I_collections_programs_other_important_concepts_24;
 import java.util.ArrayList;
 
 //Main class
-class Java_07A_Differences_Between_Array_And_Arraylist {
+public class Java_07A_Differences_Between_Array_And_Arraylist {
 
 	// Main driver method
 	public static void main(String args[]) {

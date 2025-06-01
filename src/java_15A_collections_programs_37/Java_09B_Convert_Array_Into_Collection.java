@@ -9,7 +9,7 @@ import java.util.List;
 public class Java_09B_Convert_Array_Into_Collection {
 
 	public static void main(String args[]) {
-		
+
 		String countryArray[] = { "India", "Pakistan", "Afganistan", "Srilanka" };
 
 		System.out.println("Array input: " + Arrays.toString(countryArray));

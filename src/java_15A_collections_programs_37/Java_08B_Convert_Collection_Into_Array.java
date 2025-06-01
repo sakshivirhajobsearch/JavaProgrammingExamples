@@ -14,7 +14,7 @@ public class Java_08B_Convert_Collection_Into_Array {
 
 	// Main driver code
 	public static void main(String[] args) {
-		
+
 		// Reading input from the user
 		// via BufferedReader class
 		BufferedReader in = new BufferedReader(new InputStreamReader(System.in));

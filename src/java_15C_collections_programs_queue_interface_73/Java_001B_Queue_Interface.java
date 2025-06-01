@@ -4,9 +4,9 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 public class Java_001B_Queue_Interface {
-	
+
 	public static void main(String[] args) {
-		
+
 		Queue<String> queue = new LinkedList<>();
 
 		// add elements to the queue

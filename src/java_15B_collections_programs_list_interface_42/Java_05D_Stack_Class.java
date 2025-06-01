@@ -8,7 +8,7 @@ public class Java_05D_Stack_Class {
 
 	// Main Method
 	public static void main(String args[]) {
-		
+
 		// Creating an empty Stack
 		Stack<String> stack = new Stack<String>();
 

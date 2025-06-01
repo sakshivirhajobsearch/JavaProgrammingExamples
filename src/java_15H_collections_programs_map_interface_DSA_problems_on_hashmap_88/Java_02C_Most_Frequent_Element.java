@@ -1,6 +1,7 @@
 package java_15H_collections_programs_map_interface_DSA_problems_on_hashmap_88;
 
 //Java program to find the most frequent element in an array.
+
 import java.util.HashMap;
 
 public class Java_02C_Most_Frequent_Element {
@@ -29,6 +30,7 @@ public class Java_02C_Most_Frequent_Element {
 	}
 
 	public static void main(String[] args) {
+		
 		int[] arr = { 40, 50, 30, 40, 50, 30, 30 };
 		System.out.println(mostFreqEle(arr));
 	}

@@ -2,12 +2,14 @@ package java_15G_collections_programs_map_interface_89;
 
 //Java Program to illustrate methods
 //of ConcurrentMap interface
+
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentMap;
 
 public class Java_03B_ConcurrentMap_Interface {
 
 	public static void main(String[] args) {
+
 		// Since ConcurrentMap is an interface,
 		// we create instance using ConcurrentHashMap
 		ConcurrentMap<Integer, String> m = new ConcurrentHashMap<Integer, String>();

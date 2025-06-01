@@ -6,7 +6,7 @@ import java.util.HashMap;
 public class Java_09B_Subarray_With_Given_Sum_Handles_Negative_Numbers {
 
 	public static void subArraySum(int[] arr, int n, int sum) {
-		
+
 		// cur_sum to keep track of cumulative sum till that
 		// point
 		int cur_sum = 0;
@@ -46,6 +46,7 @@ public class Java_09B_Subarray_With_Given_Sum_Handles_Negative_Numbers {
 
 	// Driver code
 	public static void main(String[] args) {
+
 		int[] arr = { 2, 12, -2, -20, 10 };
 		int n = arr.length;
 		int sum = -10;

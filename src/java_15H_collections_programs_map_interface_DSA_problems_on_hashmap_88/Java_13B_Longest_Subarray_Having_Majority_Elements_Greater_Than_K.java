@@ -56,9 +56,9 @@ public class Java_13B_Longest_Subarray_Having_Majority_Elements_Greater_Than_K {
 	}
 
 	public static void main(String[] args) {
+
 		int[] arr = { 1, 2, 3, 4, 1 };
 		int k = 2;
-
 		System.out.println(longestSubarray(arr, k));
 	}
 }

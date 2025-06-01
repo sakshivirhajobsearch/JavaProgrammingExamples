@@ -9,6 +9,7 @@ import java.util.TreeSet;
 public class Java_001B_SortedSet_Interface {
 
 	public static void main(String[] args) {
+		
 		SortedSet<String> ts = new TreeSet<String>();
 
 		// Adding elements into the TreeSet

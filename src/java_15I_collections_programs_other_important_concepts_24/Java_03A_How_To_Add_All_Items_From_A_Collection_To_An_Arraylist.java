@@ -3,6 +3,7 @@ package java_15I_collections_programs_other_important_concepts_24;
 //Java Program to add all items
 //from a collection to an ArrayList
 //using addAll() method
+
 import java.util.ArrayList;
 import java.util.Collection;
 

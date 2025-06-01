@@ -2,12 +2,14 @@ package java_15G_collections_programs_map_interface_89;
 
 //Java Program to demosntrates 
 //how to access elemets in NavigableMap
+
 import java.util.NavigableMap;
 import java.util.TreeMap;
 
 public class Java_02E_NavigableMap_Interface {
 
 	public static void main(String[] args) {
+
 		// Instantiate an object
 		// Since NavigableMap is an interface
 		// We use TreeMap

@@ -4,9 +4,9 @@ import java.util.List;
 import java.util.Stack;
 
 public class Java_001K_List_Interface {
-	
+
 	public static void main(String[] args) {
-		
+
 		// Size of the stack
 		int n = 5;
 

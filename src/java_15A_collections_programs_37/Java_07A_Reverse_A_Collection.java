@@ -13,7 +13,7 @@ public class Java_07A_Reverse_A_Collection {
 
 	// main driver method
 	public static void main(String[] args) {
-		
+
 		// Let us create a list of strings
 		List<String> mylist = new ArrayList<String>();
 

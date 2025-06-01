@@ -7,7 +7,7 @@ import java.util.Vector;
 public class Java_04E_Vector_Class {
 
 	public static void main(String[] arg) {
-		
+
 		// Create default vector of capacity 10
 		Vector v = new Vector();
 

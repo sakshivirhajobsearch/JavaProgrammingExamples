@@ -46,6 +46,7 @@ public class Java_11U2_Three_Closest_Elements_From_Three_Sorted {
 
 	// Driver code
 	public static void main(String[] args) {
+		
 		int A[] = { 1, 4, 10 };
 		int B[] = { 2, 15, 20 };
 		int C[] = { 10, 12 };
@@ -59,4 +60,3 @@ public class Java_11U2_Three_Closest_Elements_From_Three_Sorted {
 	}
 }
 
-//This code is contributed by Ajit.

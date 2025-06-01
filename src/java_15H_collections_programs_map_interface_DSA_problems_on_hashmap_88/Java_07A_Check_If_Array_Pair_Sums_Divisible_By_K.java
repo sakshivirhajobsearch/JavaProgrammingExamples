@@ -1,9 +1,9 @@
 package java_15H_collections_programs_map_interface_DSA_problems_on_hashmap_88;
 
 public class Java_07A_Check_If_Array_Pair_Sums_Divisible_By_K {
-	
+
 	public static boolean canPairs(int[] arr, int k) {
-		
+
 		int n = arr.length;
 
 		if (n % 2 == 1)
@@ -31,6 +31,7 @@ public class Java_07A_Check_If_Array_Pair_Sums_Divisible_By_K {
 	}
 
 	public static void main(String[] args) {
+
 		int[] arr = { 92, 75, 65, 48, 45, 35 };
 		int k = 10;
 		System.out.println(canPairs(arr, k) ? "True" : "False");

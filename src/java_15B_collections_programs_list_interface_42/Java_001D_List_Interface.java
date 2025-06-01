@@ -7,7 +7,7 @@ import java.util.List;
 public class Java_001D_List_Interface {
 
 	public static void main(String[] args) {
-		
+
 		// create a list of integers
 		List<Integer> al = new ArrayList<>();
 

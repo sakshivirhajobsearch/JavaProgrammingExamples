@@ -3,7 +3,7 @@ package java_15I_collections_programs_other_important_concepts_24;
 import java.util.ArrayList;
 import java.util.List;
 
-class Java_06A_Arraylist_To_Array_Conversion {
+public class Java_06A_Arraylist_To_Array_Conversion {
 
 	public static void main(String[] args) {
 

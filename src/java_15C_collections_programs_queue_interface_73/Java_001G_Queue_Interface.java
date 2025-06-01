@@ -3,13 +3,14 @@ package java_15C_collections_programs_queue_interface_73;
 //Java program to demonstrate the
 //creation of queue object using the
 //PriorityQueue class
+
 import java.util.PriorityQueue;
 import java.util.Queue;
 
-class Java_001G_Queue_Interface {
+public class Java_001G_Queue_Interface {
 
 	public static void main(String args[]) {
-		
+
 		// Creating empty priority queue
 		Queue<Integer> pq = new PriorityQueue<Integer>();
 

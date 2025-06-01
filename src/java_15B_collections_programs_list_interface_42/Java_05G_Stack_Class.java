@@ -7,7 +7,7 @@ import java.util.Stack;
 import java.util.stream.Collectors;
 
 public class Java_05G_Stack_Class {
-	
+
 	public static void main(String[] args) {
 
 		Stack<Integer> stack = new Stack<>();

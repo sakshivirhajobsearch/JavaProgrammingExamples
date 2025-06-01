@@ -2,6 +2,7 @@ package java_15I_collections_programs_other_important_concepts_24;
 
 //Java program to illustrate conversion 
 //of an array to an ArrayList
+
 import java.util.ArrayList;
 
 public class Java_05A_Array_To_Arraylist_Conversion {

@@ -7,7 +7,7 @@ import java.util.LinkedList;
 public class Java_06F_Linkedlist_Class {
 
 	public static void main(String args[]) {
-		
+
 		LinkedList<String> ll = new LinkedList<>();
 
 		ll.add("Geeks");

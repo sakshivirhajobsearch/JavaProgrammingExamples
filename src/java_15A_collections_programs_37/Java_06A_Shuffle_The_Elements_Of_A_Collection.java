@@ -13,7 +13,7 @@ public class Java_06A_Shuffle_The_Elements_Of_A_Collection {
 
 	// Main driver method
 	public static void main(String[] args) {
-		
+
 		// Creating an empty ArrayList of string type
 		ArrayList<String> mylist = new ArrayList<String>();
 

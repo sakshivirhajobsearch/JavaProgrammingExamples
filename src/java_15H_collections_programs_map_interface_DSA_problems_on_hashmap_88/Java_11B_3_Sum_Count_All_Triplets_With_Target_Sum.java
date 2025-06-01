@@ -6,9 +6,9 @@ import java.util.HashSet;
 import java.util.Set;
 
 public class Java_11B_3_Sum_Count_All_Triplets_With_Target_Sum {
-	
+
 	static boolean hasTripletSum(int[] arr, int target) {
-		
+
 		int n = arr.length;
 
 		// Fix the first element as arr[i]
@@ -36,6 +36,7 @@ public class Java_11B_3_Sum_Count_All_Triplets_With_Target_Sum {
 	}
 
 	public static void main(String[] args) {
+
 		int[] arr = { 1, 4, 45, 6, 10, 8 };
 		int target = 13;
 		if (hasTripletSum(arr, target))

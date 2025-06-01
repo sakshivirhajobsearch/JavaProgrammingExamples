@@ -3,13 +3,14 @@ package java_15C_collections_programs_queue_interface_73;
 //Java program to demonstrate the
 //creation of queue object using the
 //LinkedList class
+
 import java.util.LinkedList;
 import java.util.Queue;
 
-class Java_001H_Queue_Interface {
+public class Java_001H_Queue_Interface {
 
 	public static void main(String args[]) {
-		
+
 		// Creating empty LinkedList
 		Queue<Integer> ll = new LinkedList<Integer>();
 

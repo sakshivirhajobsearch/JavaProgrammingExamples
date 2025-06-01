@@ -6,10 +6,10 @@ import java.util.Queue;
 //PriorityBlockingQueue class
 import java.util.concurrent.PriorityBlockingQueue;
 
-class Java_001I_Queue_Interface {
-	
+public class Java_001I_Queue_Interface {
+
 	public static void main(String args[]) {
-		
+
 		// Creating empty priority
 		// blocking queue
 		Queue<Integer> pbq = new PriorityBlockingQueue<Integer>();

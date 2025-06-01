@@ -3,9 +3,9 @@ package java_15A_collections_programs_37;
 import java.util.ArrayList;
 
 public class Java_10A_Replace_Elements_In_A_List {
-	
+
 	public static void main(String[] args) {
-		
+
 		try {
 
 			// Creating an object of Arraylist class

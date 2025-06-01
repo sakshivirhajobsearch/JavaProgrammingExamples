@@ -6,9 +6,9 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class Java_12D_Iterate_Through_Elements_Of_Hashmap {
-	
+
 	public static void main(String[] arg) {
-		
+
 		Map<String, String> m = new HashMap<String, String>();
 
 		// enter name/url pair

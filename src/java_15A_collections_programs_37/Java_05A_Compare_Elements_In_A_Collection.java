@@ -5,9 +5,9 @@ import java.util.Collections;
 import java.util.List;
 
 public class Java_05A_Compare_Elements_In_A_Collection {
-	
+
 	public static void main(String[] args) {
-		
+
 		// List initialization
 		List<Integer> l = new ArrayList<>();
 

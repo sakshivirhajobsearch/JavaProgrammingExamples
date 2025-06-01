@@ -7,7 +7,7 @@ public class Java_06A_Linkedlist_Class {
 
 	// Main driver method
 	public static void main(String[] args) {
-		
+
 		// Creating a LinkedList
 		LinkedList<String> l = new LinkedList<String>();
 

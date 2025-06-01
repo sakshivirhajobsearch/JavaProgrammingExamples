@@ -1,12 +1,13 @@
 package java_15H_collections_programs_map_interface_DSA_problems_on_hashmap_88;
 
 //Java program to count frequencies of array items
+
 import java.util.Arrays;
 
 public class Java_01A_Count_Frequencies_In_An_Array {
-	
+
 	public static void countFreq(int arr[], int n) {
-		
+
 		boolean visited[] = new boolean[n];
 
 		Arrays.fill(visited, false);
@@ -33,10 +34,9 @@ public class Java_01A_Count_Frequencies_In_An_Array {
 
 //Driver code
 	public static void main(String[] args) {
+		
 		int arr[] = new int[] { 10, 20, 20, 10, 10, 20, 5, 20 };
 		int n = arr.length;
 		countFreq(arr, n);
 	}
 }
-
-//This code contributed by Adarsh_Verma.

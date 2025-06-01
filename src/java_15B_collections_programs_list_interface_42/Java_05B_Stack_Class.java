@@ -41,7 +41,7 @@ public class Java_05B_Stack_Class {
 	}
 
 	public static void main(String[] args) {
-		
+
 		Stack<Integer> stack = new Stack<Integer>();
 
 		stack_push(stack);

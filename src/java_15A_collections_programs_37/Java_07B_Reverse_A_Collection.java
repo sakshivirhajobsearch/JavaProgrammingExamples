@@ -13,7 +13,7 @@ public class Java_07B_Reverse_A_Collection {
 
 	// main driver method
 	public static void main(String[] args) {
-		
+
 		// Let us create a list of strings
 		List<String> mylist = new LinkedList<String>();
 

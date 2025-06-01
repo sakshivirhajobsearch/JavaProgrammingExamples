@@ -7,6 +7,7 @@ import java.util.TreeMap;
 public class Java_04H_TreeMap_Class {
 
 	public static void main(String args[]) {
+
 		// Initialization of a TreeMap using Generics
 		TreeMap<Integer, String> tm = new TreeMap<Integer, String>();
 

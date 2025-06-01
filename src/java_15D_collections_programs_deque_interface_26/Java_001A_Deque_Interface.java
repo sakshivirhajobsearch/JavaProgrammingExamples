@@ -4,7 +4,7 @@ import java.util.ArrayDeque;
 import java.util.Deque;
 
 public class Java_001A_Deque_Interface {
-	
+
 	public static void main(String[] args) {
 
 		// Create a Deque of Strings

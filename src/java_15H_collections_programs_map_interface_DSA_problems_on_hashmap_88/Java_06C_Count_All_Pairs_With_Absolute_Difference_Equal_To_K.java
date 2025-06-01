@@ -8,7 +8,7 @@ import java.util.HashMap;
 public class Java_06C_Count_All_Pairs_With_Absolute_Difference_Equal_To_K {
 
 	static int countPairs(int[] arr, int k) {
-		
+
 		int n = arr.length;
 		HashMap<Integer, Integer> freq = new HashMap<>();
 		int cnt = 0;
@@ -32,6 +32,7 @@ public class Java_06C_Count_All_Pairs_With_Absolute_Difference_Equal_To_K {
 	}
 
 	public static void main(String[] args) {
+		
 		int[] arr = { 1, 4, 1, 4, 5 };
 		int k = 3;
 

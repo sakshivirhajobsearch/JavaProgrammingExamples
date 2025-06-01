@@ -12,7 +12,7 @@ public class Java_05B_2_Sum_Count_Pairs_With_Target_Sum {
 	// Returns number of pairs in arr[0...n-1] with
 	// sum equal to 'target'
 	static int countPairs(int[] arr, int target) {
-		
+
 		Map<Integer, Integer> freq = new HashMap<>();
 		int cnt = 0;
 
@@ -31,6 +31,7 @@ public class Java_05B_2_Sum_Count_Pairs_With_Target_Sum {
 	}
 
 	public static void main(String[] args) {
+		
 		int[] arr = { 1, 5, 7, -1, 5 };
 		int target = 6;
 		System.out.println(countPairs(arr, target));

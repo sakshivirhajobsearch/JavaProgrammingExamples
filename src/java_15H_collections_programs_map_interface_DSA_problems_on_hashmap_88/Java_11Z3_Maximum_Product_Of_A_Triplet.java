@@ -44,6 +44,7 @@ public class Java_11Z3_Maximum_Product_Of_A_Triplet {
 	}
 
 	public static void main(String[] args) {
+
 		int[] arr = { -10, -3, 5, 6, -20 };
 		System.out.println(maxProduct(arr));
 	}

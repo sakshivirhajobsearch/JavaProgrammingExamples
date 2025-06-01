@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.Collection;
 
 public class Java_04B_Get_The_Size_Of_The_Collection {
-	
+
 	public static void main(String[] args) {
 
 		Collection<String> arraylist = new ArrayList<String>();

@@ -5,7 +5,7 @@ public class Java_05A_2_Sum_Count_Pairs_With_Target_Sum {
 	// Function to count all pairs whose sum is equal
 	// to the given target value
 	static int countPairs(int[] arr, int target) {
-		
+
 		int n = arr.length;
 		int cnt = 0;
 

@@ -1,6 +1,7 @@
 package java_15G_collections_programs_map_interface_89;
 
 //Java Program to traverse a NavigableMap
+
 import java.util.Iterator;
 import java.util.Map;
 import java.util.NavigableMap;
@@ -9,6 +10,7 @@ import java.util.TreeMap;
 public class Java_02F_NavigableMap_Interface {
 
 	public static void main(String args[]) {
+
 		// Instantiate an object
 		// Since NavigableMap is an interface
 		// We use TreeMap

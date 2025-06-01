@@ -5,7 +5,7 @@ public class Java_11Q1_Triplets_With_Sum_of_2_Equal_To_3rd {
 	public static boolean findTriplet(int[] arr) {
 
 		int n = arr.length;
-		
+
 		// Iterate through all possible triplets
 		for (int i = 0; i < n - 2; i++) {
 			for (int j = i + 1; j < n - 1; j++) {

@@ -6,9 +6,9 @@ package java_15H_collections_programs_map_interface_DSA_problems_on_hashmap_88;
 import java.util.HashMap;
 
 public class Java_10B_Remove_Minimum_Elements_Such_That_No_Common_Elements_Exist_In_Two_Arrays {
-	
+
 	static int minRemove(int[] arr1, int[] arr2) {
-		
+
 		HashMap<Integer, Integer> count = new HashMap<>();
 		int res = 0;
 
@@ -29,6 +29,7 @@ public class Java_10B_Remove_Minimum_Elements_Such_That_No_Common_Elements_Exist
 	}
 
 	public static void main(String[] args) {
+
 		int[] arr1 = { 1, 2, 3, 4 };
 		int[] arr2 = { 2, 3, 4, 5, 8 };
 

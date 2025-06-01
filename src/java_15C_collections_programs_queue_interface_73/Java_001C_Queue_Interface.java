@@ -1,13 +1,14 @@
 package java_15C_collections_programs_queue_interface_73;
 
 //Java program to iterate a Queue
+
 import java.util.LinkedList;
 import java.util.Queue;
 
 public class Java_001C_Queue_Interface {
 
 	public static void main(String[] args) {
-		
+
 		Queue<Integer> q = new LinkedList<>();
 
 		// Adds elements {0, 1, 2, 3, 4} to

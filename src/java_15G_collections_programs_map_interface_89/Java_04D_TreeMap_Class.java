@@ -7,6 +7,7 @@ import java.util.TreeMap;
 
 //Class representing a Student
 class Student {
+	
 	int rollno;
 	String name, address;
 
@@ -27,6 +28,7 @@ class Student {
 //Comparator class to define how to compare 
 //two students based on their roll number
 class SortByRoll implements Comparator<Student> {
+	
 	public int compare(Student a, Student b) {
 
 		// Compare based on roll number

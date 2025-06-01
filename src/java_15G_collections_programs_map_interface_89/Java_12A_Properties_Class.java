@@ -1,9 +1,9 @@
 package java_15G_collections_programs_map_interface_89;
 
 import java.io.FileReader;
-
 //Java program to demonstrate Properties class to get
 //information from the properties file
+
 import java.util.Properties;
 
 public class Java_12A_Properties_Class {

@@ -5,9 +5,9 @@ package java_15B_collections_programs_list_interface_42;
 import java.util.Stack;
 
 public class Java_05E_Stack_Class {
-	
+
 	public static void main(String args[]) {
-		
+
 		// Creating an empty Stack
 		Stack<Integer> stack = new Stack<Integer>();
 

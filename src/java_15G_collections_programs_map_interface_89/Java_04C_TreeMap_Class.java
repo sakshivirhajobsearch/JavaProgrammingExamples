@@ -8,6 +8,7 @@ public class Java_04C_TreeMap_Class {
 
 	// To show TreeMap constructor
 	static void Constructor() {
+		
 		// Creating an empty TreeMap
 		TreeMap<Integer, String> tm = new TreeMap<Integer, String>();
 
@@ -22,6 +23,7 @@ public class Java_04C_TreeMap_Class {
 	}
 
 	public static void main(String[] args) {
+		
 		System.out.println("TreeMap using TreeMap() constructor");
 
 		// Calling constructor

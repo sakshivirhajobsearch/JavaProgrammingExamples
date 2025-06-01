@@ -4,9 +4,9 @@ import java.util.LinkedList;
 import java.util.List;
 
 public class Java_001L_List_Interface {
-	
+
 	public static void main(String[] args) {
-		
+
 		// Size of the LinkedList
 		int n = 5;
 

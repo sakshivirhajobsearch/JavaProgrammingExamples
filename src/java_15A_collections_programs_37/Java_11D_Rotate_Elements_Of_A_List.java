@@ -6,9 +6,9 @@ import java.util.Collections;
 import java.util.List;
 
 public class Java_11D_Rotate_Elements_Of_A_List {
-	
+
 	public static void main(String[] args) {
-		
+
 		// creating array list
 		List<Integer> my_list = new ArrayList<>();
 		my_list.add(10);

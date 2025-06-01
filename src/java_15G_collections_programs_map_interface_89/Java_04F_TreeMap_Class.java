@@ -10,6 +10,7 @@ public class Java_04F_TreeMap_Class {
 
 	// Method To show TreeMap(SortedMap) constructor
 	static void Constructor() {
+		
 		// Creating a SortedMap
 		SortedMap<Integer, String> sm = new ConcurrentSkipListMap<Integer, String>();
 
@@ -29,6 +30,7 @@ public class Java_04F_TreeMap_Class {
 	}
 
 	public static void main(String[] args) {
+		
 		System.out.println("TreeMap using TreeMap(SortedMap) constructor");
 		Constructor();
 	}

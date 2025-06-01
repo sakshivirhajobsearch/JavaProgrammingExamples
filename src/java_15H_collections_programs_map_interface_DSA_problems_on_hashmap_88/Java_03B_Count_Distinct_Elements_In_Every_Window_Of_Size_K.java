@@ -2,6 +2,7 @@ package java_15H_collections_programs_map_interface_DSA_problems_on_hashmap_88;
 
 //Java program to count distinct elements in every window
 //of size k by traversing all windows of size k
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -11,7 +12,7 @@ public class Java_03B_Count_Distinct_Elements_In_Every_Window_Of_Size_K {
 
 	// Function to count distinct elements in every window of size k
 	static List<Integer> countDistinct(int[] arr, int k) {
-		
+
 		int n = arr.length;
 		ArrayList<Integer> res = new ArrayList<>();
 		Map<Integer, Integer> freq = new HashMap<>();
@@ -41,6 +42,7 @@ public class Java_03B_Count_Distinct_Elements_In_Every_Window_Of_Size_K {
 	}
 
 	public static void main(String[] args) {
+		
 		int[] arr = { 1, 2, 1, 3, 4, 2, 3 };
 		int k = 4;
 

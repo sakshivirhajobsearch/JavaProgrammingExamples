@@ -1,6 +1,7 @@
 package java_15G_collections_programs_map_interface_89;
 
 //Traversing the Hashtable
+
 import java.util.Hashtable;
 import java.util.Map;
 

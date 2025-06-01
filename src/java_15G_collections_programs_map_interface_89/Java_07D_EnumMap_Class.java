@@ -10,6 +10,7 @@ public class Java_07D_EnumMap_Class {
 	}
 
 	public static void main(String[] args) {
+		
 		// Creating an EnumMap of the Color enum
 		EnumMap<Color, Integer> e = new EnumMap<>(Color.class);
 

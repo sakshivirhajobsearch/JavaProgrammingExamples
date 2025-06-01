@@ -8,7 +8,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class Java_02B_Print_A_Collection {
-	
+
 	String firstName;
 	String lastName;
 

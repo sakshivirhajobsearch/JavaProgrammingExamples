@@ -22,7 +22,7 @@ public class Java_01C_Abstract_List_Class extends AbstractList<Integer> {
 	}
 
 	public static void main(String[] args) {
-		
+
 		List<Integer> list = new Java_01C_Abstract_List_Class(5);
 		for (int i : list) {
 			System.out.println(i);

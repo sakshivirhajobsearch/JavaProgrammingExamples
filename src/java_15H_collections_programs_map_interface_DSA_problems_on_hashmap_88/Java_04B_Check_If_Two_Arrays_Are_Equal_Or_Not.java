@@ -6,7 +6,7 @@ import java.util.Map;
 public class Java_04B_Check_If_Two_Arrays_Are_Equal_Or_Not {
 
 	public static boolean checkEqual(int a[], int b[]) {
-		
+
 		int n = a.length, m = b.length;
 		if (n != m)
 			return false;
@@ -40,6 +40,7 @@ public class Java_04B_Check_If_Two_Arrays_Are_Equal_Or_Not {
 	}
 
 	public static void main(String[] args) {
+		
 		int a[] = { 3, 5, 2, 5, 2 };
 		int b[] = { 2, 3, 5, 5, 2 };
 

@@ -10,6 +10,7 @@ public class Java_04E_TreeMap_Class {
 
 	// Method To illustrate constructor<Map>
 	static void Constructor() {
+
 		// Creating an empty HashMap
 		Map<Integer, String> m = new HashMap<Integer, String>();
 
@@ -27,6 +28,7 @@ public class Java_04E_TreeMap_Class {
 	}
 
 	public static void main(String[] args) {
+		
 		System.out.println("TreeMap using TreeMap(Map) Constructor");
 		Constructor();
 	}

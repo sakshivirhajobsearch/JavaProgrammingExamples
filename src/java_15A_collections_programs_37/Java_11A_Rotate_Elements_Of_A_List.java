@@ -7,7 +7,7 @@ import java.util.List;
 public class Java_11A_Rotate_Elements_Of_A_List {
 
 	public static void main(String[] args) {
-		
+
 		// creating ArrayList
 		List<Integer> my_list = new ArrayList<>();
 		my_list.add(10);

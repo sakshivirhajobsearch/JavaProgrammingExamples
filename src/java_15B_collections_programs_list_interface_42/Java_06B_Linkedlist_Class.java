@@ -6,9 +6,9 @@ package java_15B_collections_programs_list_interface_42;
 import java.util.LinkedList;
 
 public class Java_06B_Linkedlist_Class {
-	
+
 	public static void main(String args[]) {
-		
+
 		// Creating object of the
 		// class linked list
 		LinkedList<String> ll = new LinkedList<String>();

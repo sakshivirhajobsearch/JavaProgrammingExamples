@@ -8,7 +8,7 @@ import java.util.List;
 public class Java_001H_List_Interface {
 
 	public static void main(String args[]) {
-		
+
 		// Creating an empty Arraylist of string type
 		List<String> al = new ArrayList<>();
 

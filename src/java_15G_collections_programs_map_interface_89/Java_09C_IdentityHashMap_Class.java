@@ -8,6 +8,7 @@ import java.util.Map;
 public class Java_09C_IdentityHashMap_Class {
 
 	public static void main(String[] args) {
+		
 		// Creating an empty IdentityHashMap
 		Map<Integer, String> identity_hash = new IdentityHashMap<Integer, String>();
 

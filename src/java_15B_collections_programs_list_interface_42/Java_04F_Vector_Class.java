@@ -7,7 +7,7 @@ import java.util.Vector;
 public class Java_04F_Vector_Class {
 
 	public static void main(String args[]) {
-		
+
 		// create an instance of vector
 		Vector<String> v = new Vector<>();
 

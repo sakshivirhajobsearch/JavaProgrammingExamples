@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 //Main class
-class Java_07B_Differences_Between_Array_And_Arraylist {
+public class Java_07B_Differences_Between_Array_And_Arraylist {
 
 	public static void main(String args[]) {
 

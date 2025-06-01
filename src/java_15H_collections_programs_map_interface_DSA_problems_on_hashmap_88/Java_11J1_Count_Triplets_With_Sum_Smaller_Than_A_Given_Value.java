@@ -8,7 +8,7 @@ public class Java_11J1_Count_Triplets_With_Sum_Smaller_Than_A_Given_Value {
 	static int arr[] = new int[] { 5, 1, 3, 4, 7 };
 
 	static int countTriplets(int n, int sum) {
-		
+
 		// Initialize result
 		int ans = 0;
 

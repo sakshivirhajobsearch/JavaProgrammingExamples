@@ -6,6 +6,7 @@ import java.util.TreeMap;
 public class Java_04G_TreeMap_Class {
 
 	public static void main(String args[]) {
+
 		// Initialization of TreeMap
 		// without generics (raw type)
 		TreeMap<Integer, String> tm = new TreeMap<>();

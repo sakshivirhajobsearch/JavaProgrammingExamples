@@ -7,7 +7,7 @@ import java.util.List;
 public class Java_001G_List_Interface {
 
 	public static void main(String args[]) {
-		
+
 		// Creating an object of List interface,
 		// implemented by ArrayList class
 		List<String> al = new ArrayList<>();

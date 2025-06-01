@@ -6,9 +6,9 @@ package java_15H_collections_programs_map_interface_DSA_problems_on_hashmap_88;
 import java.util.Arrays;
 
 public class Java_06B_Count_All_Pairs_With_Absolute_Difference_Equal_To_K {
-	
+
 	static int countPairs(int[] arr, int k) {
-		
+
 		int n = arr.length;
 		int cnt = 0;
 
@@ -58,6 +58,7 @@ public class Java_06B_Count_All_Pairs_With_Absolute_Difference_Equal_To_K {
 	}
 
 	public static void main(String[] args) {
+		
 		int[] arr = { 1, 4, 1, 4, 5 };
 		int k = 3;
 

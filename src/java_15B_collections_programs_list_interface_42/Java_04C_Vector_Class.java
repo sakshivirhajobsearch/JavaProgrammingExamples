@@ -8,7 +8,7 @@ public class Java_04C_Vector_Class {
 
 	// Main driver method
 	public static void main(String[] arg) {
-		
+
 		// Case 1
 		// Creating a default vector
 		Vector v1 = new Vector();

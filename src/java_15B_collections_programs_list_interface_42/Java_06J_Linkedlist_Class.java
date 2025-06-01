@@ -3,7 +3,7 @@ package java_15B_collections_programs_list_interface_42;
 import java.util.LinkedList;
 
 public class Java_06J_Linkedlist_Class {
-	
+
 	public static void main(String args[]) {
 
 		LinkedList<Integer> list = new LinkedList<Integer>();

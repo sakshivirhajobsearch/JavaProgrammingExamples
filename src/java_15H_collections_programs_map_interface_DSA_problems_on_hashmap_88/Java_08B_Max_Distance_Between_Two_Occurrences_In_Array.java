@@ -5,7 +5,7 @@ package java_15H_collections_programs_map_interface_DSA_problems_on_hashmap_88;
 import java.util.HashMap;
 
 public class Java_08B_Max_Distance_Between_Two_Occurrences_In_Array {
-	
+
 	static int maxDistance(int[] arr) {
 
 		// Stores element to first index mapping
@@ -28,6 +28,7 @@ public class Java_08B_Max_Distance_Between_Two_Occurrences_In_Array {
 	}
 
 	public static void main(String[] args) {
+
 		int[] arr = { 1, 1, 2, 2, 2, 1 };
 		System.out.println(maxDistance(arr));
 	}
